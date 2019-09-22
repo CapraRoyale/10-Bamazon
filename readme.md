@@ -1,12 +1,8 @@
 **Bamazon**
 
-
-
 ## About
 
 A simple CLI node interface to mimic a pared-down version of 'Amazon' using Node.js with mysql and inquirer for basic prompts.
-
-
 
 ## Use
 
@@ -14,8 +10,6 @@ A simple CLI node interface to mimic a pared-down version of 'Amazon' using Node
 node bamazon.js
 ```
 
-
-
- 
+ ![Screenshot](C:\Users\siege\Git Schtuff\10-Bamazon\BamazonScreenShot.gif)
 
 
