@@ -10,6 +10,6 @@ A simple CLI node interface to mimic a pared-down version of 'Amazon' using Node
 node bamazon.js
 ```
 
- ![Screenshot](C:\Users\siege\Git Schtuff\10-Bamazon\BamazonScreenShot.gif)
+ ![Screenshot](/BamazonScreenShot.gif)
 
 
