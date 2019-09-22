@@ -10,7 +10,7 @@ A simple CLI node interface to mimic a pared-down version of 'Amazon' using Node
 
 ## Use
 
-```node bamazon.js```
+```
 node bamazon.js
 ```
 
